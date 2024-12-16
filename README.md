@@ -1,7 +1,7 @@
 # login-page
 
 This login page features a clean, user-friendly interface designed with simplicity and functionality in mind. The page is centered on the screen and utilizes a vibrant color scheme, with a soothing lavender background (#6a5acd) and accents of purple (#7b68ee). The layout provides a smooth experience for users to input their credentials.
-
+ 
 Key elements include:  
 
 Title Section: A large header at the top labeled "Login Form" with white text on a purple background, giving the page a welcoming look.
